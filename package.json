@@ -1,0 +1,12 @@
+{
+    "name": "khoahd14-assignment2",
+    "version": "1.0.0",
+    "main": "dist/main.js",
+    "scripts": {
+        "build": "tsc -p src",
+        "start": "node dist/main.js"
+    },
+    "devDependencies": {
+        "typescript": "^5.0.0"
+    }
+}
